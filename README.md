@@ -37,8 +37,6 @@ Customer-Shopping-Behavior-Analysis/
 ├── SQL/
 │   └── Customer_Shopping_Analysis.sql
 │
-├── requirements.txt
-│
 └── README.md
 ```
 
