@@ -139,30 +139,6 @@ The following business questions were answered using SQL:
 
 ---
 
-## ▶️ How to Run
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/KuldeepGhura/Customer-Shopping-Behavior-Analysis.git
-```
-
-### 2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Open the Jupyter Notebook
-
-Run all notebook cells to perform data cleaning and generate visualizations.
-
-### 4. Import the cleaned dataset into SQL Server
-
-Execute the SQL script inside the **SQL** folder to perform the analytical queries.
-
----
-
 ## 👨‍💻 Author
 
 **Kuldeep Ghura**
