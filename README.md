@@ -11,7 +11,6 @@ This project analyzes customer shopping behavior using **Python, SQL Server, and
 - Python
 - Pandas
 - SQL Server
-- SQL (T-SQL)
 - SQLAlchemy
 - Matplotlib
 - Jupyter Notebook
